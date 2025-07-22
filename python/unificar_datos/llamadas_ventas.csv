@@ -1,0 +1,1001 @@
+id,fecha,duracion_min,duracion_min,agente,telefono_cliente,resultado
+1,2024-05-22,21:53,1.48,Duilio Campos,+34629 197 500,Llamar después
+2,2025-03-15,01:13,12.57,Leonardo Jimenez,+34725 146 334,Venta
+3,2023-09-17,03:54,5.43,Nazaret Oller,+34740 89 91 79,No interesado
+4,2024-04-05,13:49,5.26,Roxana Céspedes,+34745 94 61 46,Llamar después
+5,2024-10-19,17:59,4.54,Violeta Ropero,+34918 934 367,No interesado
+6,2024-04-05,03:47,4.61,Bienvenida Seguí,+34 705 34 54 78,No interesado
+7,2024-10-03,02:43,12.76,Reinaldo Atienza,+34 898 37 29 97,No interesado
+8,2023-09-13,15:39,5.7,José Mari Pino,+34734 002 160,Llamar después
+9,2024-03-17,05:04,8.76,Isabel Sarmiento,+34724 006 669,No interesado
+10,2024-01-04,16:53,3.96,Vicenta Rodriguez,+34 677 36 61 41,No interesado
+11,2024-11-23,17:26,11.61,Sebastián Velasco,+34948 474 373,Llamar después
+12,2023-09-21,23:31,5.8,Seve Alegria,+34960 754 349,Llamar después
+13,2024-04-11,04:55,3.31,Graciano Sevilla,+34846 74 33 87,Llamar después
+14,2024-02-04,15:33,5.3,Coral Badía,+34 993699119,Venta
+15,2025-06-17,10:38,12.16,Abraham Bautista,+34 709490566,Llamar después
+16,2025-07-14,19:45,10.68,Leocadia Coronado,+34 712838593,Llamar después
+17,2025-07-14,05:08,7.16,Marcela Ricart,+34 744074353,No interesado
+18,2024-04-25,08:48,9.29,Emma Dueñas,+34 714265881,Venta
+19,2025-01-30,10:10,7.73,Alma Correa,+34 818 84 73 66,No interesado
+20,2023-08-15,20:04,13.95,Carlos Vendrell,+34 731798762,Venta
+21,2025-05-03,17:45,4.64,Eusebio Aguirre,+34 736 111 374,Venta
+22,2025-06-11,16:01,14.27,Corona Castilla,+34748108177,No interesado
+23,2025-03-11,02:40,3.41,Amor Sotelo,+34 824669082,Llamar después
+24,2024-12-17,14:16,3.94,León Baena,+34891904831,No interesado
+25,2024-06-06,12:03,7.13,Jacinta Marcos,+34681 213 788,Llamar después
+26,2024-03-31,21:11,12.52,Carlota Bautista,+34 695 136 398,Venta
+27,2025-04-18,15:24,8.34,Ernesto Sola,+34733 28 98 44,Venta
+28,2025-05-28,10:09,4.82,Eugenio Cerro,+34 703132401,Llamar después
+29,2024-06-18,02:56,1.49,Fernanda Valero,+34 740092812,No interesado
+30,2024-04-15,16:17,10.99,Estela Oliveras,+34949 535 456,No interesado
+31,2025-02-19,11:43,8.09,Francisco Mateo,+34 738 573 849,Llamar después
+32,2023-11-28,18:36,2.37,Haroldo Cabanillas,+34 743515437,Llamar después
+33,2024-01-26,22:06,9.28,Gabriel Castillo,+34706 433 506,No interesado
+34,2023-10-23,07:43,11.24,Vidal Martí,+34691 823 794,Llamar después
+35,2024-10-23,20:57,5.06,Teodoro Fajardo,+34735 61 33 22,Llamar después
+36,2025-01-29,09:50,10.7,Yago Pulido,+34 708496638,Venta
+37,2024-10-29,21:12,9.5,Encarna Diéguez,+34 803 634 800,Venta
+38,2024-03-14,22:24,13.46,Iván Peinado,+34713 20 04 23,Venta
+39,2025-01-14,14:03,7.32,Teobaldo Aguilera,+34707 53 80 18,Llamar después
+40,2024-05-26,06:21,2.08,Eusebia Ortiz,+34 709 895 654,No interesado
+41,2025-06-09,13:58,11.83,Cruz Ferrándiz,+34 909 820 285,Llamar después
+42,2024-03-17,13:27,3.62,Artemio Collado,+34 737 965 004,No interesado
+43,2024-06-20,22:25,12.11,Nacio Collado,+34983760230,Venta
+44,2025-02-02,22:23,3.82,Teresa Santamaria,+34729 304 756,Venta
+45,2024-11-06,00:42,12.15,Manola Castillo,+34 630991213,Llamar después
+46,2024-12-05,21:19,2.91,Trinidad Gilabert,+34710 22 60 92,Venta
+47,2024-10-09,04:46,14.3,María Cristina Bartolomé,+34 721 33 15 25,Llamar después
+48,2025-07-14,18:26,9.11,Jose Carlos Vázquez,+34 737 54 66 96,No interesado
+49,2024-02-10,00:59,6.6,Adelaida Sierra,+34719960672,Venta
+50,2024-11-24,22:50,2.99,Camilo Fuster,+34914397301,Venta
+51,2025-05-12,22:55,2.01,Francisco Valbuena,+34 991 622 845,Venta
+52,2024-03-26,15:40,13.93,Macarena Briones,+34 692660343,No interesado
+53,2024-06-16,04:49,5.85,Jenny Herranz,+34713 858 606,No interesado
+54,2023-08-25,04:40,6.66,Graciano Sabater,+34702 03 05 10,No interesado
+55,2024-01-18,14:44,14.13,Flor Zabaleta,+34907359984,Llamar después
+56,2025-04-11,19:04,3.43,Ulises Botella,+34 736 62 67 59,No interesado
+57,2023-08-23,18:06,3.19,Leticia Perez,+34 737269205,No interesado
+58,2024-10-31,21:40,9.29,Albina Rivera,+34739148268,Llamar después
+59,2024-01-04,22:19,5.94,Ximena Crespi,+34 846 57 23 77,Llamar después
+60,2024-03-25,11:25,3.56,Ildefonso Belda,+34745 446 808,No interesado
+61,2024-01-29,04:06,5.86,Dionisio Ortuño,+34 745538976,Venta
+62,2023-11-08,18:32,9.15,Estefanía Lara,+34737 22 43 16,No interesado
+63,2023-12-12,02:26,11.16,Atilio Galván,+34 630431176,Venta
+64,2025-01-25,05:26,13.49,Bernardita Aznar,+34 676 177 442,Venta
+65,2023-09-08,02:44,3.6,Luisa Anguita,+34 732 093 354,Llamar después
+66,2024-04-07,03:31,6.45,Eugenio Riera,+34 604 631 526,Venta
+67,2025-03-28,03:23,3.24,Luna Otero,+34 727190870,Venta
+68,2024-11-01,02:32,12.05,Irene Cerro,+34708 75 59 20,No interesado
+69,2024-09-16,20:18,9.88,Lucila Vilar,+34740 860 831,Venta
+70,2024-06-11,17:35,3.07,José Roura,+34 727748810,No interesado
+71,2025-07-07,17:27,7.71,Juan Francisco Oller,+34 726 57 52 21,Llamar después
+72,2025-03-28,04:36,7.67,Emperatriz Morera,+34867 65 05 15,No interesado
+73,2024-06-10,05:49,7.67,Ezequiel Llopis,+34732 626 594,No interesado
+74,2025-06-16,23:12,6.75,Loreto Talavera,+34 715 25 28 60,Llamar después
+75,2025-04-04,22:25,14.97,Milagros Santamaria,+34 715 935 564,Llamar después
+76,2025-06-13,05:04,12.75,María Cristina Galván,+34 678 515 326,No interesado
+77,2023-12-11,02:43,2.66,Natanael Gilabert,+34 734 139 656,No interesado
+78,2024-05-19,20:54,1.72,Jenny Ferrán,+34 734 319 564,No interesado
+79,2025-03-05,03:25,1.77,Hermenegildo Aparicio,+34 747 50 85 54,Venta
+80,2024-05-11,14:08,6.96,Alonso Maestre,+34747 11 44 99,No interesado
+81,2025-04-04,23:13,3.1,Tomasa Grande,+34845687447,Llamar después
+82,2024-07-12,03:54,7.31,Jose Luis Solana,+34747187829,Llamar después
+83,2024-04-27,12:31,3.26,Cecilio Céspedes,+34741 86 94 76,Llamar después
+84,2025-04-24,14:08,9.73,Cirino Boada,+34940185029,Venta
+85,2024-01-04,03:55,5.53,Lorena Alarcón,+34 607 00 52 36,No interesado
+86,2024-01-06,10:10,2.12,María Jesús Alfonso,+34 716 60 65 92,Llamar después
+87,2024-02-01,13:40,13.65,Joel Valbuena,+34 991 349 549,Venta
+88,2023-09-02,06:33,1.09,Violeta Quero,+34721 70 31 14,Llamar después
+89,2024-04-23,13:21,7.29,Gertrudis Camps,+34 740 41 31 60,Venta
+90,2024-06-13,05:20,9.85,Edmundo Busquets,+34701930996,Llamar después
+91,2025-07-18,19:16,13.69,Victor Peral,+34706935319,Llamar después
+92,2023-11-03,20:43,13.23,Adela Múgica,+34 644 63 22 38,Venta
+93,2023-12-03,03:17,7.26,Leonor Cervera,+34733 89 12 47,Llamar después
+94,2024-10-09,22:30,4.33,Paca Salvador,+34717 179 347,Llamar después
+95,2024-09-03,01:34,8.68,Josep Marqués,+34 738424909,Llamar después
+96,2025-06-08,02:01,5.06,Alcides Arenas,+34721 564 804,Llamar después
+97,2025-06-30,22:23,13.05,Javi Requena,+34 618 72 65 24,Llamar después
+98,2023-11-13,19:56,2.96,Gustavo Plaza,+34736 777 579,Venta
+99,2024-12-07,21:25,2.63,Agapito Mercader,+34735 614 401,No interesado
+100,2025-02-24,05:05,8.61,Damián Díez,+34 984 296 841,Llamar después
+101,2024-08-05,19:16,10.93,Iván Alvarado,+34 656 63 60 43,Venta
+102,2024-08-04,14:23,13.97,Natividad Tur,+34 731 31 82 26,Venta
+103,2024-02-04,05:16,11.04,Clara Luna,+34710 786 885,Llamar después
+104,2023-08-13,12:27,8.59,Josep Gil,+34 749 556 547,No interesado
+105,2025-06-01,12:42,6.73,Catalina Albero,+34705 62 99 46,Llamar después
+106,2025-04-23,20:13,3.98,Vilma Hervás,+34620170531,No interesado
+107,2023-09-15,01:41,6.67,Dimas Rios,+34 706 97 38 99,Llamar después
+108,2024-07-13,19:13,4.07,Custodia Querol,+34737 51 19 43,Venta
+109,2024-07-29,10:39,10.09,Amparo Narváez,+34 703 502 578,Venta
+110,2025-01-18,06:39,9.72,Germán Espinosa,+34 878310224,Venta
+111,2025-04-27,22:44,13.01,Bonifacio Sancho,+34 714 725 519,No interesado
+112,2024-06-02,00:52,12.29,Dalila Rodrigo,+34 900737813,Venta
+113,2025-04-05,14:03,6.66,Valero Salazar,+34 810 71 41 66,Llamar después
+114,2024-04-18,01:29,7.93,Edelmiro Mas,+34740 27 97 89,Llamar después
+115,2024-03-26,08:16,5.49,Bernardo Salinas,+34 723 56 00 21,Venta
+116,2025-03-10,02:09,10.42,Josep Boada,+34820 140 233,Llamar después
+117,2024-09-03,06:27,1.42,Darío Cantero,+34727 195 453,Llamar después
+118,2025-04-25,12:29,3.8,Maribel Nogués,+34 964 77 57 37,Venta
+119,2025-03-02,01:39,3.48,María José Porta,+34945518054,No interesado
+120,2023-09-12,16:27,4.97,Gaspar Gelabert,+34718048338,Llamar después
+121,2024-05-11,14:12,14.19,Vicente Juliá,+34 728 50 18 78,Venta
+122,2025-03-25,04:45,13.79,Heliodoro Arroyo,+34 632120687,Llamar después
+123,2025-05-16,20:07,13.44,Anita Mena,+34 728197498,No interesado
+124,2025-05-08,12:51,13.42,Tito Fuster,+34 744014733,No interesado
+125,2024-08-30,19:28,4.66,Ariadna Carrión,+34849 98 22 12,No interesado
+126,2025-01-12,09:42,12.33,Elodia Valencia,+34702796236,Llamar después
+127,2023-12-24,06:38,13.22,Melisa Madrid,+34723 35 76 18,No interesado
+128,2024-03-05,00:25,7.59,Juan Pablo Arias,+34 727 493 191,No interesado
+129,2024-07-06,19:04,3.15,Zacarías Raya,+34 748 07 25 91,Llamar después
+130,2023-11-14,02:48,1.47,Leire Font,+34740 08 81 36,Venta
+131,2024-03-30,09:07,8.42,César Feijoo,+34703 300 951,Llamar después
+132,2024-07-02,11:23,2.75,Dionisia Revilla,+34737731616,Venta
+133,2023-07-20,18:57,10.09,Manu Suárez,+34685 072 641,No interesado
+134,2025-04-09,06:47,1.91,Estefanía Ortega,+34 727044552,Venta
+135,2024-03-11,23:33,8.98,Isidora Castro,+34 710352105,Llamar después
+136,2023-11-09,19:31,13.85,Anastasia Bautista,+34718 727 967,Venta
+137,2025-01-15,07:35,4.29,Baltasar Zurita,+34 975 54 29 19,No interesado
+138,2025-07-17,16:58,10.11,Teresa Villaverde,+34960 753 128,Llamar después
+139,2024-07-04,18:21,7.84,Baldomero Luján,+34 854 59 44 77,No interesado
+140,2025-03-23,02:55,7.37,Joaquina Beltran,+34619226659,Llamar después
+141,2024-10-20,04:36,2.62,Eli Solsona,+34 722 128 234,Llamar después
+142,2023-12-24,19:12,8.72,Jose Antonio Tena,+34 994 780 112,No interesado
+143,2024-01-20,21:58,4.25,Bernarda Gomis,+34 655807614,Llamar después
+144,2025-03-18,05:16,14.11,Celso Galiano,+34 744 75 52 43,Venta
+145,2024-02-10,06:44,8.43,Diana Río,+34 971 218 617,No interesado
+146,2024-04-26,17:07,11.63,Saturnina Cuesta,+34712417941,Llamar después
+147,2023-12-31,06:59,9.6,Jordán Falcó,+34734 880 892,No interesado
+148,2024-02-07,10:38,6.92,Magdalena Peñalver,+34700 74 05 23,Venta
+149,2025-01-17,16:30,11.34,Nydia Ibarra,+34646933207,Venta
+150,2023-09-26,17:44,4.55,Rodrigo Azcona,+34739 305 725,Llamar después
+151,2024-01-30,12:52,2.54,Porfirio Alcalde,+34678827747,Venta
+152,2023-09-28,04:51,11.36,Rita Molins,+34 734 881 486,Llamar después
+153,2024-08-23,03:10,11.72,Maximiano Farré,+34 749 94 24 14,Venta
+154,2024-09-14,18:37,1.26,Griselda Clemente,+34 734603037,Llamar después
+155,2023-12-15,04:05,11.02,Concepción Cuenca,+34 724 85 27 40,No interesado
+156,2024-09-01,13:44,9.73,Hermenegildo Pareja,+34 724 42 55 79,No interesado
+157,2025-03-14,17:58,7.13,Enrique Martinez,+34 723336452,Llamar después
+158,2024-02-16,20:16,12.18,Samuel Revilla,+34 717 34 60 95,Llamar después
+159,2024-01-24,03:21,4.19,Ángeles Jaume,+34 714 33 33 84,Llamar después
+160,2025-03-13,10:02,6.42,Cristina Sáenz,+34924472543,No interesado
+161,2025-04-14,02:42,14.45,Nuria Manzanares,+34 730502615,No interesado
+162,2024-12-25,03:06,4.51,Saturnina Vara,+34 742 904 531,Venta
+163,2024-02-07,01:22,1.1,Marisa Parejo,+34722642481,Llamar después
+164,2024-08-07,23:01,2.13,Jordi Vilalta,+34 657 944 974,No interesado
+165,2025-03-11,04:07,6.48,Nydia Portero,+34 702399041,Llamar después
+166,2025-05-08,12:38,11.93,Lucio Caballero,+34717380466,Venta
+167,2023-11-01,14:37,6.93,Augusto Ballesteros,+34 735 61 78 38,Llamar después
+168,2024-11-18,15:50,13.92,Loreto Benitez,+34 703 372 864,Venta
+169,2024-07-13,23:26,14.96,Curro Arcos,+34 927944573,Venta
+170,2024-11-15,20:43,2.52,Roberto Gimenez,+34724886803,No interesado
+171,2024-11-06,22:15,7.71,Manolo Velasco,+34905 811 593,Llamar después
+172,2024-03-10,23:59,7.1,Luís Vera,+34848 41 93 74,Venta
+173,2024-11-23,01:36,13.86,Amado Arnal,+34820676369,Llamar después
+174,2024-06-25,04:02,2.94,José Luis Viana,+34 732036572,Llamar después
+175,2025-02-21,18:44,3.89,Baudelio Millán,+34732 40 70 80,No interesado
+176,2024-08-11,19:01,5.02,Emiliana Reyes,+34 710665281,Venta
+177,2024-05-09,02:34,4.04,Adelardo Hoz,+34 733 57 37 39,Venta
+178,2025-06-06,14:31,10.75,Feliciano Hernandez,+34 700 25 79 49,No interesado
+179,2025-06-29,13:27,9.15,María Teresa Guzman,+34 727 889 526,No interesado
+180,2023-08-10,23:02,10.23,José Luis Gibert,+34733279227,No interesado
+181,2025-07-10,03:39,10.23,Ariel Huerta,+34747 82 49 29,Llamar después
+182,2024-07-07,04:51,11.16,Curro Verdejo,+34737769359,Venta
+183,2023-08-12,06:10,9.38,Bernardo Carnero,+34 726 17 25 51,Llamar después
+184,2023-08-07,02:09,10.63,Lorena Bolaños,+34944 83 05 98,No interesado
+185,2024-08-01,10:54,12.0,Macarena Núñez,+34 714 255 933,Venta
+186,2025-03-20,14:28,1.72,Clarisa Contreras,+34742 25 93 31,No interesado
+187,2024-05-23,21:29,5.43,Onofre Patiño,+34 740631246,Venta
+188,2025-05-14,08:32,7.39,Lidia Laguna,+34 743 96 89 49,Llamar después
+189,2024-06-12,04:58,2.16,Lucila Aguilera,+34800202849,Venta
+190,2023-12-06,10:33,5.68,Pánfilo Jurado,+34611 322 721,No interesado
+191,2024-09-07,17:14,8.34,Estrella Leiva,+34880 51 72 04,No interesado
+192,2024-05-17,08:22,7.77,Jose Antonio Lara,+34742 86 12 44,No interesado
+193,2025-04-05,05:18,6.53,Melchor Campo,+34 745 75 05 31,No interesado
+194,2024-02-21,08:07,13.14,Zacarías Tirado,+34735 38 02 32,Venta
+195,2025-07-13,10:30,13.72,Roxana Gallego,+34 736 91 11 19,Llamar después
+196,2024-05-11,19:23,12.75,Amaya Portero,+34 726756503,Llamar después
+197,2024-03-02,03:41,7.1,Juanito Gabaldón,+34888 49 84 61,Llamar después
+198,2023-10-23,13:35,4.93,Diego Sotelo,+34973 81 52 24,Llamar después
+199,2023-09-07,22:24,1.04,Ruben Sebastián,+34816144254,No interesado
+200,2025-02-03,06:42,4.95,Amparo Raya,+34739 033 432,No interesado
+201,2023-11-07,14:22,6.39,Raquel Rivera,+34 829 66 79 12,Llamar después
+202,2024-03-10,08:29,10.5,Evangelina Canals,+34700407235,Llamar después
+203,2025-02-19,09:09,2.45,Eugenia Torres,+34814 453 044,No interesado
+204,2025-04-29,05:37,1.59,Eli Grande,+34737 623 104,Venta
+205,2024-11-05,10:19,5.69,Eugenio Piñeiro,+34 730 49 67 18,Venta
+206,2025-01-19,14:03,8.77,Gregorio Moya,+34 705 167 956,Llamar después
+207,2024-07-01,21:14,3.32,Matilde García,+34980 779 433,No interesado
+208,2025-03-01,01:44,14.28,Paz Moraleda,+34 920 905 868,No interesado
+209,2024-08-26,22:25,5.56,Silvio Olmedo,+34 734726511,No interesado
+210,2024-10-31,22:25,14.99,Nicanor Ortega,+34 682 477 069,Llamar después
+211,2023-12-22,14:52,13.06,Hilda Ripoll,+34 655 459 640,Venta
+212,2024-08-30,17:23,13.1,Román Aliaga,+34706 99 74 64,No interesado
+213,2024-06-28,17:38,10.15,Flavio Palomino,+34 936 19 36 03,No interesado
+214,2024-06-23,22:42,11.76,Elisa Ferrándiz,+34 912 518 621,Llamar después
+215,2024-05-27,00:09,5.34,Cosme Mosquera,+34 666 794 838,Venta
+216,2025-05-10,08:13,3.45,Georgina Reina,+34 740644177,Venta
+217,2024-01-14,19:44,10.52,Candelas Heredia,+34747 91 07 00,Venta
+218,2024-08-14,06:38,14.66,Cruz Luna,+34 743409427,Llamar después
+219,2025-02-13,13:36,3.16,Rodolfo Diéguez,+34898917146,Llamar después
+220,2024-02-24,09:51,13.78,Silvia Moll,+34 943600829,Llamar después
+221,2024-11-01,03:45,8.08,Leonardo Mariscal,+34 951 38 12 02,Llamar después
+222,2024-05-25,01:15,14.27,Macario Alcázar,+34 722 34 12 68,No interesado
+223,2025-02-20,02:21,13.78,Jesús Estrada,+34719 79 60 70,Venta
+224,2025-01-29,18:01,9.46,Amalia Tejero,+34 662524779,Llamar después
+225,2024-03-06,01:31,5.33,Edgardo Jimenez,+34 984972464,Venta
+226,2024-09-10,06:10,8.97,Morena Sacristán,+34702 75 83 84,Venta
+227,2025-03-06,00:58,7.24,Juanita Revilla,+34 731079227,Venta
+228,2025-05-28,22:43,4.68,Paz Miguel,+34737 83 03 57,Venta
+229,2025-02-24,13:41,11.74,Bautista Cuenca,+34 715 06 32 82,Venta
+230,2024-05-22,17:18,7.47,Jesusa Jordá,+34 730037651,Llamar después
+231,2025-06-20,23:24,2.31,Victor Sáenz,+34 717230876,Venta
+232,2024-07-30,09:46,13.5,Cipriano Collado,+34749034108,Llamar después
+233,2024-09-28,04:21,10.6,Nilda Salvà,+34706 96 33 31,No interesado
+234,2023-09-28,02:10,10.14,Édgar Gil,+34 739 39 61 83,Venta
+235,2025-03-20,18:24,10.01,José Montoya,+34 742453016,Llamar después
+236,2025-07-04,18:40,9.08,Íñigo Amaya,+34829 68 58 42,Venta
+237,2025-05-15,07:21,9.78,Fidel Morales,+34724 22 38 79,Llamar después
+238,2024-04-21,06:37,2.38,Begoña Mosquera,+34 727 989 084,No interesado
+239,2025-05-25,08:03,5.6,Nazaret Montero,+34 744277006,No interesado
+240,2025-01-03,15:00,9.76,Silvia Lledó,+34 726 693 620,Llamar después
+241,2023-08-01,09:44,4.9,Zoraida Lago,+34843333708,No interesado
+242,2025-04-01,15:40,10.76,Pancho Arrieta,+34813522878,Llamar después
+243,2024-07-06,11:30,8.83,Ileana Bustamante,+34 717808969,Llamar después
+244,2024-01-23,02:26,3.74,Baltasar Palau,+34 738884332,Llamar después
+245,2023-11-02,17:33,7.58,Concepción Cobo,+34 707 533 731,Llamar después
+246,2024-10-30,02:33,1.47,Aitor Mendoza,+34626 48 43 40,No interesado
+247,2024-06-16,15:29,14.64,Sol Perera,+34735 473 084,No interesado
+248,2023-09-09,07:20,6.43,Laura Bello,+34806617704,Llamar después
+249,2024-10-29,10:50,6.74,Gonzalo Pavón,+34 733715104,Venta
+250,2024-01-16,05:16,4.45,Sol Río,+34908 424 464,Llamar después
+251,2024-01-29,12:18,7.29,Curro Lago,+34 710429387,Llamar después
+252,2024-06-01,16:50,3.27,Ester Adán,+34 739940005,Llamar después
+253,2023-11-11,18:25,1.95,Celia Aguilera,+34715991199,No interesado
+254,2023-11-05,08:41,1.86,Georgina Escolano,+34718 410 669,Llamar después
+255,2024-05-02,01:42,8.96,Nydia Carrillo,+34 736 40 42 78,No interesado
+256,2024-10-15,00:12,1.08,Milagros Aller,+34704216396,Llamar después
+257,2024-09-24,12:57,2.79,Cristian Campo,+34741 730 504,Llamar después
+258,2025-05-14,03:59,7.16,Cristina Calleja,+34929063681,Llamar después
+259,2025-02-12,05:24,11.19,Encarnación Blazquez,+34 747 906 926,Venta
+260,2023-12-12,04:49,5.09,Lorenzo Abascal,+34 732 63 21 46,No interesado
+261,2024-08-18,02:12,7.64,Cristóbal Arana,+34 630 38 38 51,Venta
+262,2024-10-29,04:59,9.92,Melisa Ricart,+34 746 23 78 57,No interesado
+263,2024-06-04,21:41,13.54,Sandalio Pablo,+34 736 271 614,No interesado
+264,2023-10-23,01:31,2.67,Berta Garcés,+34 716 78 48 25,Llamar después
+265,2023-10-03,13:10,4.18,Juanito Lago,+34 665 957 328,No interesado
+266,2023-08-29,20:35,4.28,Eustaquio Plaza,+34 738339455,Venta
+267,2025-06-11,14:22,12.34,Jordana Gras,+34 733 61 62 73,No interesado
+268,2024-06-08,16:03,1.23,Ariel Báez,+34 623 322 612,No interesado
+269,2024-10-06,00:40,1.26,Camila Andres,+34923 793 296,Venta
+270,2024-09-18,17:25,8.45,Patricia Badía,+34700 274 398,Llamar después
+271,2024-03-28,08:30,14.78,Maricela Bernat,+34701 523 526,Llamar después
+272,2024-12-31,01:15,11.94,Juanito Perelló,+34 615 191 625,Llamar después
+273,2024-05-25,09:06,4.19,Prudencio Barrena,+34740214268,Venta
+274,2024-09-04,06:35,12.9,Albina Criado,+34 717 482 285,No interesado
+275,2024-04-27,19:35,7.13,Dafne Tejada,+34 728 78 99 02,Llamar después
+276,2024-10-12,05:46,12.61,Fermín Alegre,+34 739 51 64 45,Llamar después
+277,2023-11-02,00:01,12.63,Virginia Rico,+34 816 496 841,Venta
+278,2024-12-31,19:06,11.29,Encarna Acevedo,+34699 029 047,No interesado
+279,2024-11-08,05:19,14.88,Águeda Baró,+34830 37 03 13,No interesado
+280,2025-05-21,23:53,8.92,Maribel Sotelo,+34 832 120 850,Llamar después
+281,2024-08-20,00:22,4.23,María Jesús Aranda,+34741 176 106,No interesado
+282,2024-03-07,06:06,10.31,Juliana Pagès,+34 730504817,Llamar después
+283,2024-08-09,06:56,12.6,Goyo Granados,+34749705664,Venta
+284,2023-11-13,05:35,3.74,Viviana Cabanillas,+34720 889 624,Venta
+285,2025-01-18,06:47,11.1,Ibán Coello,+34 980 651 520,No interesado
+286,2024-08-03,05:20,5.89,Lupe Flores,+34746 04 67 05,Llamar después
+287,2025-02-14,19:48,4.06,Buenaventura Pino,+34 703 86 84 74,Llamar después
+288,2023-09-06,20:01,8.25,Moreno Rincón,+34 606179056,No interesado
+289,2024-09-02,13:21,2.0,Francisco Guerra,+34 652 49 79 92,Venta
+290,2024-09-02,16:26,12.84,Juana Agudo,+34745 071 102,No interesado
+291,2024-04-10,21:09,13.78,Tristán Patiño,+34 922 339 135,Llamar después
+292,2023-12-25,03:04,12.83,Florinda Toro,+34 748707586,Venta
+293,2023-09-05,18:52,2.42,Marcelo Otero,+34712305928,No interesado
+294,2023-10-20,09:09,13.54,Lilia Arnaiz,+34705 52 54 77,Llamar después
+295,2024-08-29,14:21,10.43,Tiburcio Casal,+34748858066,Venta
+296,2024-06-23,12:03,3.67,Ainoa Zorrilla,+34941 789 292,No interesado
+297,2025-01-20,19:10,3.33,Alejandra Ros,+34733 39 96 04,Llamar después
+298,2024-04-01,17:42,12.07,Pascual Cifuentes,+34 894552402,Llamar después
+299,2023-12-25,18:07,3.13,Celestina Correa,+34805094636,No interesado
+300,2024-10-05,20:11,6.85,Damián Morell,+34715408253,Venta
+301,2025-06-14,13:45,1.33,Flavia Hoz,+34 736 578 306,No interesado
+302,2025-07-01,15:58,11.75,Nieves Villegas,+34702 744 670,No interesado
+303,2024-01-06,07:09,12.18,Segismundo Mancebo,+34605 91 46 09,Venta
+304,2023-10-20,04:04,1.87,Edelmira Carrera,+34939 50 10 76,Llamar después
+305,2024-10-06,02:57,5.2,Guadalupe Alcolea,+34 716249980,No interesado
+306,2023-09-07,18:29,4.39,Abel Villanueva,+34 725 590 722,Llamar después
+307,2024-01-31,11:05,13.46,Primitivo Zabaleta,+34 717 595 019,No interesado
+308,2025-07-02,13:02,10.14,Amaro Solís,+34 713 521 734,Llamar después
+309,2024-11-08,22:48,4.33,Maximiano Piñol,+34 731 67 04 82,Llamar después
+310,2025-05-04,03:15,4.78,Zacarías Rojas,+34 909371459,Venta
+311,2024-03-07,03:08,6.1,Sigfrido Tejero,+34700 093 246,No interesado
+312,2025-05-24,09:54,3.63,Tiburcio Orozco,+34724917329,Llamar después
+313,2025-04-29,05:37,11.2,Aurelia Peñalver,+34 802095851,No interesado
+314,2024-04-27,21:45,13.22,Perlita Bárcena,+34742161109,No interesado
+315,2023-11-24,11:14,14.64,Sebastian Carvajal,+34825322374,No interesado
+316,2024-02-16,03:25,1.75,Javiera Canals,+34 719 182 887,No interesado
+317,2024-02-08,02:15,8.26,Guadalupe Quesada,+34 706 19 58 79,Venta
+318,2025-07-07,22:13,9.14,Eduardo Paniagua,+34718 625 355,Llamar después
+319,2024-11-28,20:39,2.24,Ángel Herrero,+34703556408,Llamar después
+320,2024-04-26,10:09,2.48,Carmen Asenjo,+34 742 170 704,Llamar después
+321,2023-07-29,21:37,1.42,Noa Garriga,+34 996 42 22 42,Venta
+322,2024-08-15,03:56,12.77,Sergio Maldonado,+34718926016,No interesado
+323,2023-12-12,01:32,7.98,Adrián Iglesias,+34714 787 382,No interesado
+324,2024-01-07,18:28,11.68,Pánfilo Bilbao,+34 665 91 24 10,Venta
+325,2024-08-15,01:20,5.53,Nayara Ríos,+34 739 345 888,Venta
+326,2024-06-17,20:35,6.23,Juan Francisco Cervera,+34 855 916 835,Venta
+327,2023-11-18,08:43,14.08,Juan Carlos Sobrino,+34828726434,No interesado
+328,2025-06-28,09:48,1.7,Ariel Puig,+34 728 31 55 13,No interesado
+329,2023-08-16,13:50,1.82,Camilo Andrade,+34 705488355,Llamar después
+330,2024-04-06,09:35,14.8,Vanesa Julián,+34710037203,Llamar después
+331,2025-06-02,15:39,12.35,Juliana Alegria,+34703 282 773,No interesado
+332,2023-08-10,02:17,11.37,Estela Osorio,+34731115824,Venta
+333,2024-08-16,20:50,11.57,duracion_mincio Granados,+34 721 76 45 67,Venta
+334,2023-11-21,18:05,6.43,Asdrubal Zamora,+34714 352 835,Venta
+335,2023-11-14,04:42,4.16,Gonzalo Rosselló,+34953 428 418,No interesado
+336,2024-03-13,18:04,9.6,Alfonso Amo,+34 709 60 58 44,Venta
+337,2023-11-26,20:57,7.07,Eliseo Córdoba,+34 739790585,No interesado
+338,2025-03-06,03:53,13.98,Jerónimo Plaza,+34849085965,Llamar después
+339,2024-11-12,10:48,9.46,Modesta Escobar,+34888 85 13 20,Llamar después
+340,2024-01-18,11:37,12.61,Vito Acosta,+34637 710 730,Llamar después
+341,2023-10-04,07:02,5.22,Isaías Quevedo,+34 720 322 417,Llamar después
+342,2023-08-26,00:03,1.54,Marino Camacho,+34 908211178,Venta
+343,2024-11-26,07:46,8.78,Jaime Jimenez,+34 724 91 87 77,Venta
+344,2023-09-07,11:07,14.2,María Fernanda Coronado,+34 908 442 543,Venta
+345,2024-09-05,05:32,7.66,Chucho Leon,+34721 33 22 42,Llamar después
+346,2024-10-13,03:43,2.0,Lucio Badía,+34706 033 878,Llamar después
+347,2025-06-09,10:18,6.88,Rufino Bermúdez,+34703 85 90 80,Venta
+348,2024-01-18,10:09,10.07,Felix Varela,+34885 92 62 57,Venta
+349,2024-07-27,13:01,4.23,Camilo Silva,+34932037775,No interesado
+350,2025-06-29,23:25,4.8,Marc Vallés,+34620 843 944,Llamar después
+351,2024-11-08,06:59,8.33,Loida Santamaría,+34742 54 98 88,Llamar después
+352,2023-10-26,00:13,4.65,Roque Ruiz,+34 713 442 937,No interesado
+353,2024-07-03,05:52,10.08,Aureliano Escalona,+34665 235 811,Venta
+354,2024-11-29,22:04,14.04,Gil Rosa,+34685 63 83 84,No interesado
+355,2025-01-13,06:12,10.84,Bonifacio Alcolea,+34 720658009,Llamar después
+356,2025-03-30,00:33,14.82,Leticia Valenciano,+34923368790,Llamar después
+357,2025-02-11,07:15,10.41,Cristian Fabra,+34724336789,Llamar después
+358,2025-04-23,16:09,7.05,Marc Lillo,+34 748021491,Venta
+359,2024-05-25,12:00,5.62,Haydée Vazquez,+34886 09 88 82,Llamar después
+360,2023-10-03,21:48,7.44,Marcelo Salamanca,+34 733 91 37 86,No interesado
+361,2024-01-22,19:40,1.14,Eligia Aroca,+34712 745 630,Venta
+362,2023-12-10,16:21,10.02,Carolina Goñi,+34 720 30 63 85,Venta
+363,2024-09-10,17:56,3.69,Dorita Lara,+34712 996 834,Llamar después
+364,2025-07-03,12:24,13.0,Edu Crespo,+34 719208517,Venta
+365,2025-05-20,06:02,13.53,Onofre Pizarro,+34 733222918,Llamar después
+366,2024-11-13,18:08,2.19,Gonzalo Sanabria,+34 702448546,Llamar después
+367,2024-06-23,18:32,2.43,Liliana Torrent,+34900116004,Llamar después
+368,2025-03-17,11:35,14.42,Íñigo Berrocal,+34678212974,Llamar después
+369,2025-02-20,11:37,1.08,Marcelo Elías,+34 961 87 17 08,No interesado
+370,2025-05-22,04:03,9.36,Baltasar Pol,+34 670 31 38 38,No interesado
+371,2024-05-12,03:11,6.12,Juan Bautista Cisneros,+34 746 82 41 69,Llamar después
+372,2024-11-09,01:01,6.94,María Carmen Fiol,+34736028100,Venta
+373,2025-02-04,15:01,14.7,Isabel Larrañaga,+34 749 55 25 51,Llamar después
+374,2024-04-01,21:30,13.42,Elías Roda,+34715 051 319,Venta
+375,2023-08-24,18:35,3.62,Jose Manuel Olivares,+34 635 801 728,Venta
+376,2023-08-11,12:15,2.32,Azucena Madrigal,+34728301159,No interesado
+377,2024-03-09,13:24,14.57,Quique Rovira,+34743749456,No interesado
+378,2025-06-08,13:56,14.84,Patricia Córdoba,+34722 344 880,No interesado
+379,2025-03-27,17:34,12.05,Yéssica Estevez,+34 860 73 76 46,No interesado
+380,2023-11-13,23:22,2.56,Alcides Chacón,+34638 404 336,Llamar después
+381,2023-07-25,01:49,13.87,Nicodemo Calvet,+34 722376288,Venta
+382,2024-06-25,14:39,2.21,Georgina Díaz,+34 816 96 28 39,No interesado
+383,2024-07-12,12:54,3.38,Emelina Romero,+34 730358670,Venta
+384,2025-02-23,17:27,6.07,Casemiro Agullo,+34973 36 66 72,Llamar después
+385,2023-11-23,13:52,5.8,Saturnino Montenegro,+34 706678848,Llamar después
+386,2024-07-29,01:15,6.3,Juan Bautista Baeza,+34864037486,Llamar después
+387,2025-07-12,00:34,5.25,América Gallego,+34 958 06 47 20,Venta
+388,2024-04-13,14:03,14.02,Piedad Alarcón,+34674 963 149,Venta
+389,2024-05-02,06:10,4.02,Tecla Leal,+34 836 767 448,Venta
+390,2024-02-20,05:36,14.44,Nilda Company,+34692405070,Venta
+391,2024-07-03,16:41,7.4,Judith Tur,+34706 70 96 95,No interesado
+392,2024-05-21,17:09,10.87,Lupe Sabater,+34739 148 777,Llamar después
+393,2023-10-23,17:43,4.44,Belén Santiago,+34 749410752,Venta
+394,2025-06-11,20:07,11.62,Virginia Colom,+34951 200 872,No interesado
+395,2024-02-15,16:07,12.48,Lola Guerra,+34 742211621,No interesado
+396,2024-03-18,23:11,11.95,Alcides Isern,+34734 231 208,Llamar después
+397,2024-10-21,12:49,6.04,Bautista Diez,+34 725483638,Venta
+398,2023-10-07,22:21,1.77,Jesusa Ródenas,+34706 82 54 65,No interesado
+399,2024-04-18,22:57,14.38,Amado Montoya,+34 846 52 99 70,Llamar después
+400,2023-11-25,20:20,3.73,Hortensia Santamaría,+34 957 27 27 55,No interesado
+401,2024-06-10,19:34,12.82,Palmira Casals,+34 727 870 453,Venta
+402,2024-07-02,17:28,4.28,Asdrubal Durán,+34 731 10 30 25,Llamar después
+403,2025-05-10,17:20,11.32,Reyna Lloret,+34 952943129,Venta
+404,2024-09-04,21:33,11.47,Claudio Amor,+34700774067,Llamar después
+405,2024-04-13,13:34,11.02,Juliana Pinedo,+34 716715752,Venta
+406,2023-10-07,19:50,1.63,Rosario Bermúdez,+34 700 18 53 97,No interesado
+407,2023-07-30,14:57,1.36,Eusebia Valenciano,+34 707 166 341,Llamar después
+408,2023-08-28,18:00,14.25,Gabriela Delgado,+34741 71 75 83,No interesado
+409,2023-09-03,03:25,2.68,Adrián Garcés,+34700945223,Venta
+410,2024-12-31,01:06,8.94,Vera Sebastián,+34729 977 647,Venta
+411,2024-09-20,10:16,1.35,Lilia Canals,+34608443631,Venta
+412,2024-05-16,03:31,13.27,Angélica Esparza,+34 695675266,Venta
+413,2024-11-20,00:38,10.69,Ignacia Roselló,+34719 877 266,No interesado
+414,2024-10-24,04:01,10.23,Ana Sofía Aroca,+34852 24 10 77,Llamar después
+415,2024-09-20,19:13,10.83,Balduino Acevedo,+34978 96 28 78,Llamar después
+416,2024-03-17,19:00,10.14,Amílcar Llanos,+34709 68 20 82,Llamar después
+417,2025-03-23,12:44,3.88,Emiliana Donoso,+34 691 15 39 49,Venta
+418,2024-01-03,15:37,14.23,Benigna Bermejo,+34 685 51 12 09,No interesado
+419,2024-02-03,15:40,11.91,Nacho Herranz,+34943 91 46 47,Venta
+420,2024-05-21,17:10,14.85,Carlito Gómez,+34 718 936 961,Llamar después
+421,2024-11-02,04:35,6.97,Herminia Arteaga,+34 877058478,No interesado
+422,2025-05-01,13:30,4.05,Rubén Ferreras,+34 722084596,Llamar después
+423,2023-11-08,17:27,5.54,Herminia Feliu,+34 881189105,Venta
+424,2024-08-19,15:15,3.25,Carina Escobar,+34 632 335 856,Venta
+425,2023-11-13,05:38,12.84,Rosalina Cueto,+34715455442,Llamar después
+426,2023-08-17,19:38,9.16,Benjamín Marqués,+34 715 502 923,No interesado
+427,2023-09-22,11:05,4.86,Manu Bertrán,+34730817033,Llamar después
+428,2024-07-08,09:16,6.16,Lorenza Calatayud,+34747 612 304,No interesado
+429,2024-05-04,13:24,4.13,Paca Vizcaíno,+34628 793 932,No interesado
+430,2024-08-18,07:50,10.71,Amílcar Caro,+34 733119064,Venta
+431,2025-01-17,09:22,6.05,Marisol Casado,+34 708 31 19 58,Venta
+432,2023-10-05,05:03,5.45,Hugo Benítez,+34709 17 07 29,Venta
+433,2023-10-21,11:55,8.71,Gustavo Gutierrez,+34 899224080,Llamar después
+434,2024-10-16,18:04,13.91,Angélica Herrero,+34961150509,No interesado
+435,2024-07-03,08:21,11.6,Lupe Amigó,+34727 107 804,Llamar después
+436,2025-04-06,15:05,6.38,José María Llabrés,+34 711 19 39 59,No interesado
+437,2024-05-23,03:17,13.69,Samanta Mendez,+34 733 991 919,Llamar después
+438,2025-01-29,01:47,9.58,Benita Chamorro,+34 747378565,No interesado
+439,2024-02-17,06:52,7.45,Isaac Palacio,+34 723616211,No interesado
+440,2024-11-18,19:16,14.21,José Manuel Pineda,+34 704 94 65 74,Venta
+441,2025-07-17,04:03,6.24,Paulina Pujol,+34747633298,Llamar después
+442,2023-12-13,14:38,10.44,Amílcar Salgado,+34707485545,Llamar después
+443,2024-03-09,22:42,7.75,Cecilia Lamas,+34720 837 655,Venta
+444,2025-03-18,09:39,7.55,Nazaret Paredes,+34 914 104 573,Llamar después
+445,2023-10-05,14:23,8.15,Arturo Varela,+34 702666042,Venta
+446,2025-02-13,22:21,11.08,Luciana Ledesma,+34963 08 17 94,Llamar después
+447,2025-07-06,02:10,5.48,Luisina Pol,+34 734 138 890,No interesado
+448,2024-12-30,11:50,8.24,Juanito Laguna,+34 863 71 97 25,No interesado
+449,2024-04-28,08:34,2.54,Macarena Mur,+34654 731 687,Llamar después
+450,2024-06-19,17:50,1.7,Pancho Bravo,+34930437005,No interesado
+451,2023-09-01,04:41,11.51,Nadia Gómez,+34712959930,No interesado
+452,2024-05-24,04:54,8.41,Glauco Carnero,+34 743 000 743,No interesado
+453,2024-07-19,19:26,5.26,Nacio Lozano,+34726 292 118,Venta
+454,2023-11-14,02:21,8.42,Salomón Simó,+34605 66 39 27,Venta
+455,2025-06-12,09:54,5.63,Pastora Carbó,+34722 04 43 88,Venta
+456,2025-03-17,03:55,13.07,María Fernanda Grau,+34 709 152 008,Llamar después
+457,2024-08-24,14:42,3.15,Armando Morales,+34972284112,Llamar después
+458,2024-06-28,05:53,2.99,Dionisio Roca,+34 716 15 19 54,Venta
+459,2023-12-21,16:44,13.86,Marc Rey,+34 707 307 024,Llamar después
+460,2024-07-20,15:40,10.19,Raúl Bueno,+34 677240103,Llamar después
+461,2024-11-20,00:35,2.33,Aurelia Otero,+34 951070592,Venta
+462,2024-11-03,20:00,12.46,Prudencia Santamaria,+34 877 127 528,Llamar después
+463,2025-07-14,13:47,12.21,Patricio Berrocal,+34 747 088 026,Venta
+464,2023-11-12,12:10,11.79,Hugo Cerezo,+34 701217374,Venta
+465,2024-07-01,22:14,13.59,Sancho Herrera,+34 700 49 04 11,No interesado
+466,2025-06-14,04:24,13.57,Nacio Cerezo,+34 706 64 27 08,Llamar después
+467,2025-03-01,03:54,7.33,Pelayo Aliaga,+34 817 892 099,No interesado
+468,2023-10-17,15:06,13.18,Lucía Pardo,+34 678 729 709,Llamar después
+469,2023-11-12,13:56,11.29,Alfredo Torrent,+34746 715 590,Llamar después
+470,2024-04-14,05:21,2.99,Duilio Prada,+34719 069 606,No interesado
+471,2024-06-04,05:37,11.28,Emiliana Niño,+34860 936 280,No interesado
+472,2024-10-18,04:43,12.5,Macario Linares,+34721 59 47 37,Venta
+473,2023-12-26,11:22,14.24,Paulina Ros,+34860 70 15 60,Venta
+474,2023-07-26,20:30,12.97,Dominga Giralt,+34 800666246,No interesado
+475,2024-06-05,13:27,14.09,Basilio Gelabert,+34 687360993,Venta
+476,2024-09-27,08:49,11.3,Jose Manuel Milla,+34713 65 37 32,Venta
+477,2025-02-02,18:43,8.93,Aurelia Bayona,+34 969 020 407,Venta
+478,2023-09-20,08:51,6.61,Vasco Morata,+34678 77 20 35,Llamar después
+479,2025-05-02,10:16,9.83,Juan José Rodriguez,+34 802 19 57 45,Venta
+480,2024-11-28,23:50,1.14,Antonia Cerro,+34 729 982 728,Venta
+481,2024-07-18,13:27,6.7,Vanesa Asensio,+34 733528373,No interesado
+482,2024-02-16,01:33,9.11,Gil Marín,+34 814 828 437,No interesado
+483,2024-08-05,17:19,2.36,Bárbara Tur,+34737 53 06 24,Llamar después
+484,2024-03-10,14:57,10.71,Xavier Castañeda,+34 745 62 58 30,No interesado
+485,2024-03-12,22:21,14.5,Olegario Cuadrado,+34 647401607,Llamar después
+486,2025-01-24,17:01,12.09,Ainoa Seguí,+34 647 834 084,Venta
+487,2024-01-21,08:25,7.95,Bruno Sanmiguel,+34 736493127,No interesado
+488,2025-05-13,06:13,8.56,Rafaela Exposito,+34 976 38 32 09,No interesado
+489,2024-07-15,20:24,3.61,Moisés Carlos,+34823 535 969,Llamar después
+490,2025-06-08,22:11,3.4,Cirino Carmona,+34677 140 671,Venta
+491,2024-08-22,00:29,10.85,Amado Ramírez,+34 969 275 096,Venta
+492,2023-09-30,09:12,7.63,Samanta Zamorano,+34 740669076,Venta
+493,2024-11-15,07:59,6.26,Blanca Barroso,+34717 73 47 75,Venta
+494,2024-06-01,14:24,13.17,Felicia Galán,+34748 03 41 03,Llamar después
+495,2024-12-11,08:47,4.35,Hipólito Peralta,+34742114543,Llamar después
+496,2023-08-06,19:37,4.69,Martin Figueroa,+34 739 74 31 80,Llamar después
+497,2024-04-03,02:55,9.61,Sandra Fiol,+34706 16 11 09,No interesado
+498,2025-06-28,02:29,8.93,Edu Julián,+34 739033737,No interesado
+499,2024-05-30,15:34,8.75,Marcelino Garzón,+34 892319044,Venta
+500,2024-06-18,14:57,13.29,Baudelio Falcón,+34 724 55 34 17,Llamar después
+501,2024-03-09,15:45,9.78,Macario Aragonés,+34888 338 951,Llamar después
+502,2024-11-25,09:49,10.17,Urbano Portillo,+34927 15 05 79,Venta
+503,2024-02-08,06:06,13.16,Mercedes Gallego,+34 706 244 705,No interesado
+504,2024-08-26,04:23,2.44,Fabiola Gimeno,+34 702 36 42 79,No interesado
+505,2023-08-24,16:27,10.59,Elena Cuevas,+34706332764,Venta
+506,2024-03-26,06:12,11.82,Renata Giralt,+34904 854 243,Llamar después
+507,2023-09-20,21:24,8.15,Camila Rodrigo,+34 706 15 81 64,Venta
+508,2024-02-18,11:57,4.28,Encarnacion Iniesta,+34748 91 15 60,No interesado
+509,2025-06-08,06:02,9.82,Raquel Anaya,+34967100788,Llamar después
+510,2024-07-18,11:54,3.75,Graciano Domínguez,+34736 845 420,Llamar después
+511,2024-01-23,11:38,14.23,Adalberto Pacheco,+34717236965,Venta
+512,2024-03-20,12:16,4.49,María Carmen Girona,+34994 10 24 47,Llamar después
+513,2024-10-23,05:10,9.54,Leyre Llanos,+34840 408 351,Venta
+514,2023-12-09,00:14,4.38,Victoriano Aguado,+34 982 87 45 83,No interesado
+515,2023-10-02,11:35,9.27,María Pilar Villalonga,+34 735776848,No interesado
+516,2024-08-27,01:23,5.11,Humberto Sedano,+34707535087,Venta
+517,2023-12-30,06:15,7.27,Noelia Sarabia,+34 725069763,No interesado
+518,2024-03-12,00:55,2.48,Manola Losa,+34 721911026,Venta
+519,2025-06-04,23:15,14.11,Vidal Frías,+34717 755 774,Venta
+520,2025-01-16,00:43,9.66,Felicia Hervia,+34 710 752 266,Llamar después
+521,2024-04-05,16:45,12.27,Priscila Aramburu,+34 726 053 895,Venta
+522,2023-10-06,22:28,4.33,Leonor Solano,+34931 07 21 65,Venta
+523,2024-07-29,17:58,3.41,Néstor Abril,+34746033491,Venta
+524,2024-10-27,02:55,8.25,Amor Benítez,+34708 93 46 53,Llamar después
+525,2024-11-29,00:03,6.92,Jenny Pallarès,+34 726883283,No interesado
+526,2025-04-14,17:10,1.85,Adelaida Company,+34673 04 57 69,Llamar después
+527,2024-09-06,14:22,8.0,Azucena Angulo,+34900 91 44 74,No interesado
+528,2023-09-28,04:15,7.52,Guillermo Barco,+34707 843 334,No interesado
+529,2025-02-04,10:46,7.56,Fanny Torrent,+34694195019,Venta
+530,2025-05-24,08:40,8.33,Porfirio Méndez,+34 727 392 412,No interesado
+531,2025-06-19,11:50,14.24,Débora Simó,+34 712 24 18 44,Llamar después
+532,2024-03-17,22:33,1.81,Alejo Sandoval,+34857521549,Venta
+533,2024-03-20,11:07,4.26,Jacobo Canales,+34 649694677,No interesado
+534,2023-12-24,00:11,3.88,Matilde Tur,+34 988 302 901,Venta
+535,2023-11-25,09:11,9.48,Modesta Villalba,+34 743 969 406,Venta
+536,2024-04-12,09:17,5.73,Tatiana Rey,+34 712 42 71 11,Llamar después
+537,2024-01-01,09:21,8.54,Jerónimo Ferrero,+34826936361,No interesado
+538,2024-03-26,09:18,10.18,Luís Sevilla,+34731193943,No interesado
+539,2025-01-29,06:31,13.78,Emperatriz Tormo,+34712465258,Llamar después
+540,2025-04-02,06:50,8.01,Ester Carrasco,+34 898 76 70 05,Llamar después
+541,2024-10-18,18:20,10.15,Roxana Sanmartín,+34 883 197 123,No interesado
+542,2023-11-19,13:33,10.18,Gisela Cabezas,+34 630 038 702,No interesado
+543,2024-08-19,20:53,4.89,Matilde Páez,+34718 81 07 47,Llamar después
+544,2025-01-07,18:05,9.99,Francisco Javier Cerro,+34 957459026,Llamar después
+545,2025-02-12,22:01,8.48,Otilia Marín,+34726894086,Venta
+546,2023-07-27,06:44,7.81,Almudena Adadia,+34604 11 76 88,Llamar después
+547,2024-01-31,20:52,2.05,Pascual Pino,+34 705844134,No interesado
+548,2024-07-17,19:37,3.5,Teodosio Mora,+34 718 320 126,No interesado
+549,2023-11-30,09:28,12.62,Faustino Bru,+34731 764 890,Llamar después
+550,2025-04-28,11:13,8.81,Óscar Agullo,+34637 75 66 21,Venta
+551,2024-10-03,22:17,4.15,Soraya Vicente,+34907 648 937,No interesado
+552,2024-01-18,12:19,7.88,Emilio Mur,+34733340555,Venta
+553,2024-07-20,21:51,8.09,Rosendo Codina,+34678 722 793,Llamar después
+554,2024-01-09,14:48,7.27,Elodia Sastre,+34 747442757,Venta
+555,2024-06-05,10:58,13.34,Viviana Arévalo,+34603 383 036,Venta
+556,2024-11-27,08:42,12.99,Juan Francisco Oller,+34966288733,Llamar después
+557,2023-09-15,21:31,9.75,Cornelio Alemany,+34 726 052 886,Llamar después
+558,2025-06-10,12:05,8.91,Zoraida Porcel,+34705469170,Venta
+559,2024-11-15,11:27,14.15,Lucila Esteban,+34716577431,Llamar después
+560,2024-09-12,23:50,1.92,Chucho Villanueva,+34911 268 279,No interesado
+561,2024-11-01,17:15,1.49,Ale Sacristán,+34731028239,Venta
+562,2023-12-10,10:12,10.6,Silvio Hoz,+34 706602338,No interesado
+563,2024-12-02,04:04,10.83,Silvia Oller,+34813079749,No interesado
+564,2023-09-26,02:38,6.96,Joel Figueras,+34874074211,Venta
+565,2025-02-05,11:37,7.77,Leyre Aragonés,+34 731596307,Llamar después
+566,2023-11-10,11:17,6.28,Florencia Iñiguez,+34820 528 505,Venta
+567,2024-03-18,16:07,12.6,Asunción Guerrero,+34 737 135 512,Venta
+568,2024-04-19,16:49,13.66,Magdalena Gonzalez,+34 723 233 064,No interesado
+569,2025-07-02,08:30,10.43,Albert Gálvez,+34 713 817 336,Venta
+570,2025-07-17,04:39,3.65,Salomón Borrego,+34734214362,No interesado
+571,2024-12-27,10:08,3.89,Jose Cerdán,+34702 066 288,Llamar después
+572,2025-03-24,15:27,8.74,Rosario Hierro,+34 748187115,Venta
+573,2024-09-09,15:41,14.84,Graciana Ángel,+34707 82 74 48,No interesado
+574,2024-10-21,21:47,8.65,Ariel Sancho,+34 710634947,Llamar después
+575,2025-01-11,11:50,12.48,Amelia Segura,+34734 463 593,No interesado
+576,2025-04-29,15:54,11.53,Jacinto Carrasco,+34 921 69 70 33,Llamar después
+577,2024-09-16,13:58,6.67,Ligia Pombo,+34 657075053,Venta
+578,2023-09-26,13:16,4.26,Asunción Azorin,+34857 178 467,No interesado
+579,2024-12-30,11:20,9.17,Nazario Bayona,+34 737699474,No interesado
+580,2024-06-25,19:53,2.49,José María Almagro,+34 986813501,Venta
+581,2025-03-03,19:44,8.16,Rosalva Calatayud,+34902 31 98 84,Llamar después
+582,2024-02-20,21:43,13.84,Febe Campoy,+34 730 19 21 69,Llamar después
+583,2023-12-08,05:01,12.91,María Pilar Avilés,+34 916 895 644,Venta
+584,2024-02-07,10:52,2.0,Milagros Casal,+34742 19 81 39,Llamar después
+585,2025-03-10,18:28,9.83,Flora Vendrell,+34739 896 000,Llamar después
+586,2023-12-19,19:35,11.7,Jordana Valbuena,+34707 286 641,Llamar después
+587,2023-08-15,04:13,3.61,Geraldo Calatayud,+34805 196 302,No interesado
+588,2024-10-05,13:21,14.3,Enrique Arcos,+34 720 21 80 48,Venta
+589,2024-04-03,07:00,11.68,Cayetano Carranza,+34743737918,Llamar después
+590,2023-07-27,02:28,6.75,Sergio Juárez,+34745489681,Venta
+591,2024-05-01,05:05,7.42,Celestino Tena,+34713 46 25 89,No interesado
+592,2024-09-04,01:28,5.0,Nazaret Benavente,+34721993126,Venta
+593,2024-10-19,09:09,2.77,Cristian Barriga,+34713 033 288,No interesado
+594,2025-03-02,03:10,14.95,Ibán Ballester,+34904 00 97 08,No interesado
+595,2023-07-22,17:48,6.92,Brígida Milla,+34729 938 733,No interesado
+596,2024-12-02,16:46,12.86,Amílcar Villalba,+34 609 40 50 54,No interesado
+597,2024-09-15,02:58,9.77,Kike Campos,+34736 552 713,Llamar después
+598,2025-02-03,00:31,10.35,Cleto Sáenz,+34 982 34 05 53,Venta
+599,2024-05-17,01:06,4.85,Tito Arenas,+34 638331218,Venta
+600,2024-06-06,23:07,5.56,Marc Sola,+34 748 71 23 81,Venta
+601,2024-09-25,00:23,1.39,Carlota Plaza,+34 739896300,No interesado
+602,2024-04-02,19:40,7.99,Cintia Trillo,+34 672607613,Llamar después
+603,2024-12-02,04:34,11.14,Toño Bermúdez,+34740 853 405,No interesado
+604,2024-11-01,00:09,12.16,Natalia Cabrero,+34 698 71 84 05,No interesado
+605,2025-07-15,11:02,2.35,Gabriela Cañellas,+34 926922203,No interesado
+606,2025-04-02,23:09,3.73,Angelita Garzón,+34 713104533,No interesado
+607,2025-01-19,09:52,7.73,Sandra Sacristán,+34735 13 67 09,No interesado
+608,2024-03-04,16:32,3.42,Chus Gil,+34648 27 20 18,No interesado
+609,2025-05-13,14:14,14.21,Amarilis Chamorro,+34 833 856 127,Llamar después
+610,2023-12-11,15:18,8.2,Graciela Sevilla,+34903 69 14 65,No interesado
+611,2024-04-08,10:50,3.34,Zaira Barriga,+34 801 57 24 63,Llamar después
+612,2024-02-05,03:23,6.54,Dominga Cadenas,+34 728 12 30 18,Venta
+613,2024-09-09,22:14,3.13,Genoveva Polo,+34 744 093 131,No interesado
+614,2024-03-05,01:07,14.11,María Cuevas,+34 631 33 44 77,Llamar después
+615,2025-07-15,13:47,14.35,Laura Tejada,+34734424380,Venta
+616,2024-03-26,10:00,2.22,Jennifer Folch,+34 829 55 42 50,No interesado
+617,2025-05-02,14:13,3.71,Abigaíl Alcalá,+34 713718585,Venta
+618,2024-07-27,23:56,4.94,Adelaida Bilbao,+34697 882 757,Venta
+619,2025-01-20,15:45,13.58,Concepción Pardo,+34 684 584 220,Venta
+620,2023-10-04,22:13,6.93,Clara Angulo,+34637142292,Venta
+621,2024-11-06,14:29,11.54,Aureliano Pereira,+34705 89 84 56,No interesado
+622,2024-07-19,23:27,10.68,Samu Costa,+34 730 214 863,No interesado
+623,2024-09-28,16:38,2.29,Maxi Ferrer,+34 741 470 546,Llamar después
+624,2023-12-02,03:26,7.4,Cecilia Giner,+34732 53 77 72,No interesado
+625,2025-06-30,08:39,3.94,Angélica Alcázar,+34825478834,No interesado
+626,2024-12-25,02:45,7.94,Primitivo Lopez,+34 723637023,Llamar después
+627,2024-08-31,23:51,7.61,Mario Gabaldón,+34 699 92 73 04,Venta
+628,2024-05-28,16:16,7.31,Rosario Castillo,+34 973 896 092,Llamar después
+629,2024-02-09,00:38,14.61,Alma Tudela,+34712 71 05 31,Llamar después
+630,2025-02-09,12:22,11.76,Esteban Sierra,+34 735 015 076,No interesado
+631,2024-03-29,20:32,2.37,Cristina Santamaría,+34729 46 60 87,No interesado
+632,2025-05-12,12:19,5.2,Baldomero Torrens,+34731506746,Llamar después
+633,2025-03-16,01:25,10.04,Nico Diego,+34872 871 037,Llamar después
+634,2024-12-19,22:38,12.87,Alfonso Niño,+34717688526,Llamar después
+635,2023-10-14,22:55,5.03,Félix Muñoz,+34723097060,No interesado
+636,2025-03-30,20:45,13.24,Ruperto Múñiz,+34873 45 74 81,No interesado
+637,2025-07-05,13:29,10.12,Primitiva Chico,+34 749237588,Llamar después
+638,2024-12-12,02:10,4.53,Cloe Godoy,+34741 31 70 70,Llamar después
+639,2024-11-02,12:01,6.7,Lilia Guardia,+34861 46 02 66,No interesado
+640,2024-08-09,17:01,6.84,Cayetano Ávila,+34906 56 10 68,Venta
+641,2024-06-13,17:58,3.63,Marta Cortés,+34724 469 942,No interesado
+642,2023-10-27,17:19,1.52,Loida Pol,+34747 236 502,Venta
+643,2025-01-13,11:39,1.28,Aurelio Garcés,+34 706914257,Venta
+644,2024-01-23,22:20,13.42,Jordán Martorell,+34743 377 634,Llamar después
+645,2023-11-15,12:48,1.03,Amaya Pont,+34 967578881,Venta
+646,2024-04-02,03:35,13.8,Pancho Duque,+34 734 885 007,Venta
+647,2024-12-11,08:02,7.64,Yaiza Pardo,+34 725 63 46 39,Llamar después
+648,2025-07-17,00:57,4.22,Lucas Ríos,+34 682063711,Venta
+649,2023-07-31,22:31,9.07,Joan Guardia,+34 718 490 674,Venta
+650,2025-07-13,23:38,5.89,Bernardo Gil,+34 715 140 904,Venta
+651,2024-06-01,12:07,10.18,Luisa Velasco,+34741 00 97 36,Llamar después
+652,2025-04-09,03:49,1.96,Valentina Benito,+34 725 885 795,Llamar después
+653,2025-01-08,14:39,12.19,José Antonio Grande,+34908404932,No interesado
+654,2023-10-08,20:56,9.62,Carmina Rubio,+34 931 535 184,Llamar después
+655,2023-08-01,08:37,5.83,Anna Pintor,+34 950 675 272,No interesado
+656,2024-07-22,07:20,6.72,Ignacia Cáceres,+34693003874,Llamar después
+657,2023-10-02,16:24,13.4,Javiera Torralba,+34716 065 722,No interesado
+658,2023-08-29,09:19,9.83,Amando Nicolau,+34991 30 59 79,No interesado
+659,2023-09-16,14:55,8.47,Dorotea Maldonado,+34734 37 21 68,No interesado
+660,2025-05-11,22:16,6.94,Elías Sarabia,+34843 537 597,Llamar después
+661,2024-03-05,13:40,13.18,Eusebia Puente,+34982127602,Venta
+662,2024-12-13,15:00,4.46,Eric Ródenas,+34 927 28 31 33,Venta
+663,2024-01-06,19:16,9.31,Paula Verdú,+34726 27 28 50,No interesado
+664,2024-12-25,00:08,13.72,Tito Arrieta,+34 871179738,No interesado
+665,2023-09-02,01:57,4.59,Marc Fuster,+34722549608,Venta
+666,2024-02-02,17:40,14.45,Paula Bellido,+34704 269 485,No interesado
+667,2025-01-24,11:16,7.0,Dorotea Arranz,+34 749464421,Venta
+668,2023-12-05,17:56,9.29,Pepito Marcos,+34726127596,Llamar después
+669,2024-12-02,02:26,11.33,Anabel Gutierrez,+34 927 32 76 68,Venta
+670,2025-05-02,06:07,10.42,Odalis Santana,+34711 51 53 25,Llamar después
+671,2024-03-12,22:38,6.24,Concepción Ruiz,+34 998363727,No interesado
+672,2025-05-15,21:47,10.22,Nilo Galiano,+34718500599,Llamar después
+673,2024-03-06,09:02,3.16,Roque Fuente,+34 738181257,Llamar después
+674,2023-11-30,02:23,7.11,Perlita Polo,+34948776430,Venta
+675,2023-10-04,00:43,7.43,Moisés Benavente,+34707 352 686,No interesado
+676,2024-12-30,01:39,2.25,Jerónimo Vigil,+34847 887 475,Llamar después
+677,2024-10-03,06:05,11.51,Paola Rivera,+34743 75 33 80,Llamar después
+678,2024-03-14,13:06,7.23,Pancho Orozco,+34 736175367,Llamar después
+679,2025-06-04,20:56,2.69,Julie Juárez,+34 704846328,Llamar después
+680,2024-10-18,10:47,14.49,Abigaíl Cerdán,+34 740 00 13 55,Venta
+681,2024-10-15,04:02,1.8,Leopoldo Méndez,+34 702 808 403,Venta
+682,2024-04-24,00:56,2.86,Sancho Estevez,+34 745590936,No interesado
+683,2023-10-20,07:29,5.28,Mariano Estevez,+34 700 22 46 77,No interesado
+684,2024-12-04,18:54,6.9,Nilda Campo,+34731 129 022,Llamar después
+685,2024-02-02,03:28,7.93,Rosaura Corominas,+34739185671,Venta
+686,2025-07-18,07:56,13.37,Salvador Román,+34 733 73 13 79,Venta
+687,2025-05-29,10:42,14.57,Febe Quirós,+34711597246,No interesado
+688,2024-12-12,06:03,12.82,Nuria Abella,+34 820945534,Venta
+689,2024-11-11,23:23,2.31,Gisela Dominguez,+34 712407383,Venta
+690,2025-03-17,20:01,12.49,María Dolores Soriano,+34 904 10 27 48,Llamar después
+691,2024-07-12,12:35,2.56,Chus Ferreras,+34911242674,Llamar después
+692,2024-02-15,18:09,10.25,Cruz Francisco,+34 950243410,Llamar después
+693,2023-12-21,20:16,5.52,Teobaldo Gil,+34 742276034,Llamar después
+694,2025-07-01,20:54,11.96,Olimpia Roig,+34 614 001 923,No interesado
+695,2025-03-20,05:46,6.35,Clotilde Montalbán,+34 702 240 820,Venta
+696,2024-11-15,09:53,14.08,José Mari Gutierrez,+34633 92 97 37,Llamar después
+697,2024-03-02,07:20,3.07,Febe Hoz,+34 717 482 672,Llamar después
+698,2024-10-06,08:42,8.47,Cintia González,+34748 33 21 72,Llamar después
+699,2024-02-13,03:19,6.72,Cecilio Mata,+34707477287,Venta
+700,2025-01-03,23:22,11.81,Ester Antúnez,+34741 393 310,Venta
+701,2024-06-07,12:49,9.42,Alberto Verdejo,+34748 608 869,No interesado
+702,2025-03-18,14:58,13.89,Juanito Gomis,+34921 82 37 60,No interesado
+703,2024-10-29,03:52,2.72,Eugenio Mariscal,+34705 803 891,No interesado
+704,2025-01-19,16:20,7.29,Isa Baró,+34852 68 04 53,Llamar después
+705,2023-09-21,09:30,12.26,Segismundo Sales,+34 839 631 001,No interesado
+706,2023-11-03,08:48,2.84,Anastasia Pulido,+34739079189,No interesado
+707,2024-11-15,07:33,8.33,Aura Orozco,+34 740040304,Llamar después
+708,2025-01-16,13:44,9.81,Azahara Borja,+34628 110 034,No interesado
+709,2024-06-28,00:03,14.09,José Trillo,+34705781154,Venta
+710,2025-03-18,11:54,1.0,Hermenegildo Coll,+34711635056,Llamar después
+711,2024-03-31,22:32,13.14,Mar Cerdá,+34612 013 146,Venta
+712,2024-11-17,23:50,1.67,Jose Francisco Marqués,+34720296644,Venta
+713,2025-01-01,23:54,12.31,Ema Andres,+34714 29 29 32,Llamar después
+714,2025-05-13,18:39,4.69,Josefa Almazán,+34661558387,Llamar después
+715,2025-01-29,06:56,1.2,Tadeo Barrio,+34 891 073 390,Venta
+716,2025-03-31,13:51,12.85,Bibiana Quiroga,+34714 35 57 75,Venta
+717,2023-09-06,13:30,3.56,Lupe Ayuso,+34746670567,Llamar después
+718,2024-09-22,21:28,12.84,Jessica Campos,+34743 636 521,Venta
+719,2025-05-16,01:45,9.33,Rosendo Aguirre,+34 733 18 58 07,Venta
+720,2024-09-10,03:20,10.65,Raimundo Castejón,+34709 552 035,Venta
+721,2024-03-24,04:49,2.38,Hilario Novoa,+34 617363627,Llamar después
+722,2024-10-21,12:16,5.18,Rodrigo Guitart,+34905832798,No interesado
+723,2024-03-04,14:23,5.01,Tadeo Tello,+34730 337 925,Llamar después
+724,2025-05-21,00:10,9.09,Jose Ignacio Tur,+34 746 68 81 88,Venta
+725,2024-02-08,11:58,11.39,Patricio Granados,+34 702 53 27 27,Venta
+726,2025-04-12,16:26,14.81,Manu Iniesta,+34708546771,Llamar después
+727,2025-05-22,03:00,6.34,Nayara Barberá,+34 716 303 936,Venta
+728,2024-05-05,00:13,14.39,Emiliana Hervia,+34 729 55 32 35,Venta
+729,2024-10-19,03:52,10.66,Eladio Palau,+34 727340107,Llamar después
+730,2023-08-03,10:09,2.8,Prudencia Palomares,+34 734 687 762,Venta
+731,2023-08-18,20:15,13.21,Inocencio Esteban,+34945 610 448,Llamar después
+732,2024-03-15,07:45,1.81,Carmen Gabaldón,+34719 801 821,Venta
+733,2024-06-18,14:08,1.52,Aroa Marco,+34742 02 24 16,Venta
+734,2024-02-20,20:39,7.4,Loida Cal,+34 802 613 956,No interesado
+735,2024-03-14,22:28,11.7,Custodia Rovira,+34990738344,Llamar después
+736,2023-10-13,11:20,11.83,Ainara Coello,+34716057339,No interesado
+737,2024-12-28,23:45,11.49,Galo Ugarte,+34 737616352,Venta
+738,2025-04-05,07:16,4.04,Andrea Quero,+34 690903500,Venta
+739,2025-01-27,09:44,11.22,Fortunato Daza,+34725567247,No interesado
+740,2025-02-16,19:51,4.82,Pepita Soriano,+34 861 677 309,Venta
+741,2025-05-11,02:12,4.19,Tania Pino,+34 711 24 27 11,Venta
+742,2025-01-09,03:19,10.34,Remedios Pinedo,+34869245909,Venta
+743,2025-06-29,09:44,2.93,Lorena Bayona,+34720 878 688,Venta
+744,2024-10-26,02:05,2.0,Américo Vila,+34 713 465 004,No interesado
+745,2024-11-05,03:24,1.87,África Castell,+34 716 23 48 40,Llamar después
+746,2023-08-01,13:30,5.2,Aura Toledo,+34725 49 88 23,Llamar después
+747,2025-01-16,04:22,9.84,Oriana Girona,+34902 23 41 10,No interesado
+748,2024-07-05,16:23,2.39,Valeria Aznar,+34734665517,Venta
+749,2024-05-21,21:48,12.56,Asdrubal Bejarano,+34942466878,No interesado
+750,2025-01-07,22:23,11.76,Ariel Lluch,+34 735 55 70 51,Llamar después
+751,2024-05-19,00:10,4.86,Cayetana Rosselló,+34868858169,No interesado
+752,2025-06-17,20:46,9.73,Emiliano Aller,+34721956057,Venta
+753,2024-04-04,00:13,6.01,Carina Sevillano,+34737890722,Venta
+754,2023-11-04,22:38,8.51,Ascensión Campoy,+34949659216,No interesado
+755,2024-03-17,06:44,12.66,Anita Mulet,+34735 467 238,Venta
+756,2023-11-08,15:10,10.55,Fernando Prada,+34 739338949,Llamar después
+757,2023-12-10,08:03,11.23,Oriana Castañeda,+34702 894 836,No interesado
+758,2024-03-03,21:07,3.66,Ismael Galiano,+34711 240 677,Llamar después
+759,2023-07-25,02:26,8.07,Severiano Torrents,+34 674 091 951,Llamar después
+760,2024-06-27,13:12,5.02,Alexandra Navarrete,+34 727 426 344,No interesado
+761,2025-01-01,05:09,4.87,Ruth Gabaldón,+34743454881,Venta
+762,2024-03-07,10:26,5.17,Leocadio García,+34712 104 309,No interesado
+763,2024-06-20,03:44,5.65,Berto Valle,+34 741 438 461,Venta
+764,2024-01-13,10:21,6.61,Damián Samper,+34735843231,No interesado
+765,2024-04-06,10:36,5.43,Eugenio Galvez,+34 685 255 697,Venta
+766,2024-07-26,00:14,4.76,Esther Suarez,+34 718808240,No interesado
+767,2024-04-12,15:30,14.02,Aroa Revilla,+34 736 036 639,Venta
+768,2024-11-14,20:01,6.77,Tere Jover,+34 827781660,No interesado
+769,2024-08-28,08:19,6.98,Luis Madrigal,+34735 521 950,No interesado
+770,2024-04-24,04:41,4.69,Plinio Palmer,+34 705 61 73 53,No interesado
+771,2024-12-15,20:22,2.59,Tadeo Gomis,+34607049375,Venta
+772,2025-06-09,01:19,3.83,Anselmo Valencia,+34 817 850 890,No interesado
+773,2024-12-11,01:42,3.05,Imelda Pérez,+34734430627,No interesado
+774,2023-11-01,09:48,7.08,Prudencia Blanca,+34 703 08 01 26,Venta
+775,2023-10-14,13:42,5.51,Toni Hernández,+34 911 426 256,Venta
+776,2024-04-29,22:11,3.71,Urbano Murillo,+34969587438,No interesado
+777,2024-09-25,20:32,2.36,Juanita Diez,+34720666144,Llamar después
+778,2024-03-19,02:41,5.18,Leire Gomila,+34 717758005,Venta
+779,2024-04-16,17:06,7.46,Adelia Miranda,+34 744 964 869,Llamar después
+780,2025-01-07,11:25,7.86,Tomás Niño,+34 736904998,Venta
+781,2024-06-25,01:49,7.45,Fermín Collado,+34703 45 74 36,Llamar después
+782,2024-07-15,06:34,9.3,Azucena Sanjuan,+34 734590914,No interesado
+783,2024-10-06,05:14,5.25,Jafet España,+34718 69 93 90,Venta
+784,2024-03-12,00:21,3.12,Teodora Sanabria,+34 720 77 23 62,No interesado
+785,2023-08-13,15:04,13.56,Isabel Camacho,+34 746 213 168,Llamar después
+786,2025-03-26,07:46,5.4,Rico Luján,+34711485717,No interesado
+787,2024-04-20,18:57,4.15,Ruben Mendez,+34 718984919,No interesado
+788,2025-03-20,17:07,5.53,Chus Fernandez,+34728956414,Llamar después
+789,2023-09-27,10:53,5.22,Julieta Criado,+34 707334740,Llamar después
+790,2024-12-15,04:45,5.27,Aura Grande,+34723 976 138,No interesado
+791,2024-03-21,05:22,11.99,Margarita Marcos,+34 711053269,Llamar después
+792,2023-08-03,11:03,9.47,Flavio Reguera,+34634745442,No interesado
+793,2025-02-18,11:04,13.35,Cebrián Lastra,+34 677877238,Venta
+794,2023-11-27,17:45,3.39,Macarena Nogués,+34 717 477 537,Llamar después
+795,2024-06-18,04:36,1.45,Cesar Riba,+34 733 701 814,Venta
+796,2024-09-26,13:11,9.01,Margarita Riera,+34740 79 28 24,Venta
+797,2024-09-22,01:54,9.49,Roberta Huertas,+34 895 15 01 20,Venta
+798,2023-09-13,00:27,12.84,Régulo Mir,+34 728 116 865,Venta
+799,2025-03-09,00:21,1.27,Ciriaco Delgado,+34705 95 30 10,No interesado
+800,2023-10-11,18:02,12.41,Melisa Ropero,+34733396166,No interesado
+801,2025-06-10,06:03,8.63,Bartolomé Moliner,+34908 476 191,Llamar después
+802,2023-10-19,23:27,1.73,Ariadna Aramburu,+34724823117,Venta
+803,2024-07-14,08:18,13.19,Eutropio Gibert,+34 979 42 01 54,No interesado
+804,2024-03-15,08:51,4.99,Eutropio Antúnez,+34 970847541,Venta
+805,2023-08-16,18:09,8.96,Roxana Trillo,+34 732091435,No interesado
+806,2024-01-06,02:12,12.77,Florinda Tamarit,+34 736 97 42 42,Llamar después
+807,2025-03-20,13:48,3.44,Calixto López,+34730 570 090,Llamar después
+808,2024-11-03,01:07,1.52,Sosimo Arcos,+34 802 239 193,Venta
+809,2024-03-28,17:48,12.15,Adrián Alberdi,+34 732842169,Venta
+810,2023-09-15,14:47,6.69,Macaria Cadenas,+34 748354301,No interesado
+811,2024-07-14,03:21,14.21,Maximiliano Ojeda,+34 961983369,Llamar después
+812,2024-12-02,22:14,4.59,Chus Cuéllar,+34 993292955,Llamar después
+813,2025-04-16,18:16,7.06,Maxi Cuéllar,+34 735 136 229,Llamar después
+814,2024-07-01,05:11,13.13,Susanita Manzano,+34730507313,Llamar después
+815,2023-12-10,03:09,2.88,Chita Aramburu,+34714703015,Llamar después
+816,2025-07-06,22:49,8.25,Zaira Ferreras,+34959 402 060,No interesado
+817,2024-01-28,01:10,13.11,Josué Vendrell,+34610 87 39 92,No interesado
+818,2024-01-27,05:43,2.01,Jorge Núñez,+34 714304096,No interesado
+819,2023-08-29,09:58,10.26,Dani Cortes,+34822 220 629,Llamar después
+820,2024-07-08,01:03,14.79,Hilario Avilés,+34705714809,Venta
+821,2025-02-06,20:48,8.99,Odalys Cerdán,+34 708 135 218,No interesado
+822,2023-08-10,23:58,10.21,Bernardino Estevez,+34 674449086,Llamar después
+823,2023-08-31,22:18,13.25,Itziar Colom,+34747 571 189,No interesado
+824,2025-04-15,12:21,14.77,Juan Pablo Piñeiro,+34715353716,Llamar después
+825,2023-08-24,15:27,7.64,Ambrosio Tejedor,+34 715 31 55 26,Venta
+826,2023-11-01,05:01,12.52,Celestino Estévez,+34 749378107,Venta
+827,2023-08-25,12:28,12.62,Manuelita Priego,+34 747 58 79 16,No interesado
+828,2024-10-03,23:25,11.62,Pacífica Solís,+34 604543415,Llamar después
+829,2024-02-26,21:49,7.0,Ainara Moraleda,+34 743 821 026,No interesado
+830,2023-07-30,08:06,2.2,Nicolás Ferreras,+34746 30 25 95,Llamar después
+831,2024-07-23,07:05,11.4,David Ramos,+34 882968361,Venta
+832,2025-06-05,10:12,3.95,Nélida Toledo,+34 722763905,Llamar después
+833,2025-02-22,23:01,5.29,María Manuela Seguí,+34721 223 285,No interesado
+834,2023-11-11,11:17,12.96,Chus Jódar,+34 930698491,Venta
+835,2024-03-29,04:04,10.86,Josefina Pi,+34 745028145,No interesado
+836,2024-11-06,19:07,9.48,Bruno Castrillo,+34733625590,Venta
+837,2023-08-27,08:39,14.12,Estefanía Malo,+34746 37 00 92,Llamar después
+838,2023-10-15,04:46,14.61,Nazaret Canales,+34727 704 087,Llamar después
+839,2024-02-14,19:01,12.7,Telmo Lamas,+34 876 817 467,No interesado
+840,2023-12-23,15:44,6.29,Adelia Ugarte,+34748988381,Venta
+841,2023-11-18,13:15,9.84,Alberto Pazos,+34 710 93 97 05,Llamar después
+842,2023-11-24,14:21,5.75,Irma Roselló,+34 907815738,No interesado
+843,2024-04-09,05:07,3.79,Angelino Quintanilla,+34 848 045 205,No interesado
+844,2024-02-11,08:48,3.65,Rolando Fuster,+34 740658471,Llamar después
+845,2024-02-05,09:25,14.59,Leonardo Alcaraz,+34613 316 126,Llamar después
+846,2023-09-02,20:26,4.42,Simón Cifuentes,+34 699 363 023,Venta
+847,2024-12-20,15:13,4.54,Amarilis Berenguer,+34 705 966 743,No interesado
+848,2024-10-21,10:46,12.32,Ignacio Piñeiro,+34965 89 38 43,Venta
+849,2023-12-18,07:15,7.28,Rosaura Vicens,+34708 791 194,Llamar después
+850,2023-12-08,16:26,3.43,Trinidad Paredes,+34 624 975 807,Venta
+851,2024-03-16,19:07,14.06,Saturnino Marín,+34700 127 744,Llamar después
+852,2023-10-21,00:04,10.1,Jesusa Herrero,+34 649472549,Llamar después
+853,2024-05-05,15:15,10.56,Basilio Diego,+34707 40 14 43,No interesado
+854,2025-01-28,10:01,8.28,Nico Ortiz,+34 841 81 26 84,No interesado
+855,2023-09-18,15:45,9.11,Ale Miró,+34 808799692,Venta
+856,2023-08-19,16:07,2.7,Perlita Mármol,+34723 12 96 49,Venta
+857,2023-10-20,19:38,1.52,Mirta Ruano,+34740 75 06 74,No interesado
+858,2024-11-16,05:13,7.4,Noa Gallego,+34715 67 13 56,Venta
+859,2025-03-08,15:23,5.94,Tamara Escalona,+34888343417,Venta
+860,2025-02-19,07:58,12.9,Mayte Rios,+34 853 99 79 79,Venta
+861,2024-01-03,04:27,10.14,Narcisa Villar,+34 739 463 985,No interesado
+862,2024-05-10,08:37,2.7,Eugenio Vera,+34701 486 143,Venta
+863,2024-04-26,20:24,2.28,Alma Valle,+34823 998 808,No interesado
+864,2025-04-24,06:44,1.45,Jordán Cabezas,+34903 208 797,Llamar después
+865,2023-12-24,06:13,7.52,Graciana Corral,+34723 57 11 71,No interesado
+866,2024-02-19,05:21,7.47,Elvira Ricart,+34738 98 84 43,Llamar después
+867,2023-08-18,01:32,6.95,Lorenza Nicolau,+34 822 71 81 54,Llamar después
+868,2024-04-17,01:10,8.56,Evaristo Rocha,+34749224653,Llamar después
+869,2025-02-23,19:07,12.1,Edgardo Arana,+34621242901,Llamar después
+870,2023-07-20,06:23,13.7,Berta Nogueira,+34731 854 666,Venta
+871,2025-04-20,15:27,7.42,Catalina Carnero,+34 860 56 34 50,Venta
+872,2024-07-07,14:46,5.18,Águeda Amorós,+34 748 935 980,Venta
+873,2025-06-14,13:57,10.61,Gregorio Balaguer,+34728 84 73 17,Llamar después
+874,2025-06-28,02:40,13.95,Paco Font,+34707 67 92 37,Llamar después
+875,2025-03-25,22:52,2.09,Florentino Monreal,+34715 649 572,Llamar después
+876,2024-05-13,00:47,2.78,Eustaquio Tormo,+34 718 141 509,No interesado
+877,2024-11-23,12:36,5.5,Eugenio Vives,+34 730 57 29 58,Venta
+878,2023-08-21,05:21,4.06,Julio César Alsina,+34 706247838,No interesado
+879,2023-08-16,06:45,13.17,Prudencia Navas,+34863 90 88 66,Llamar después
+880,2025-06-06,00:07,9.03,Rómulo Jiménez,+34 832 702 044,No interesado
+881,2025-06-29,19:25,1.21,Trinidad Garcés,+34 724 968 762,Venta
+882,2025-02-13,13:51,5.52,Chita Ponce,+34 833 15 77 55,Llamar después
+883,2025-04-03,21:33,14.53,Joan Huguet,+34 608 831 564,Llamar después
+884,2024-03-01,17:57,2.1,Dulce Pelayo,+34713 242 117,Llamar después
+885,2024-10-30,01:02,1.61,Samu Huguet,+34 868 506 069,No interesado
+886,2024-12-06,16:01,8.62,Edelmiro Pedraza,+34705706101,Llamar después
+887,2025-02-23,21:13,11.16,Roque Castañeda,+34714 13 02 59,Llamar después
+888,2025-04-09,14:28,8.3,Maximiliano Pinilla,+34 843613279,No interesado
+889,2023-10-01,15:33,5.36,Jerónimo García,+34 859659209,Llamar después
+890,2024-03-27,14:27,3.9,Ximena Rebollo,+34 715 931 940,Llamar después
+891,2023-08-23,20:26,11.84,Ester Criado,+34703723063,Llamar después
+892,2025-06-09,12:00,12.67,Gaspar Izquierdo,+34744 58 82 66,Venta
+893,2024-12-19,16:47,7.04,Lucila Cerdá,+34693 142 802,Llamar después
+894,2024-08-07,10:10,7.42,Fátima Moles,+34716 730 757,Llamar después
+895,2024-07-11,09:59,7.36,Eugenia Mateu,+34 727 260 154,Venta
+896,2024-11-15,16:29,14.05,Flavia Bellido,+34 718318524,Venta
+897,2024-02-17,12:24,10.65,Perlita Corbacho,+34721 279 896,Venta
+898,2024-09-27,07:05,2.29,Plinio Salazar,+34 742 285 923,Llamar después
+899,2025-03-18,06:02,13.73,Gonzalo Mosquera,+34705 751 964,No interesado
+900,2025-04-16,16:48,4.43,Edelmiro Jaén,+34 714 388 530,No interesado
+901,2024-12-09,09:00,6.02,Cloe Castelló,+34 734 436 673,Venta
+902,2025-02-20,02:08,14.22,Adán Bosch,+34851 017 197,No interesado
+903,2025-06-18,19:00,10.77,Amador Agudo,+34 705259908,Llamar después
+904,2024-12-24,01:06,6.02,Eli Cáceres,+34857 94 19 23,Llamar después
+905,2024-12-02,11:01,4.7,Rosalía Recio,+34728 447 556,Llamar después
+906,2023-09-26,02:23,12.54,Olimpia Ureña,+34742 743 744,Llamar después
+907,2024-10-17,07:19,6.87,Anselma Heredia,+34733 005 023,Llamar después
+908,2024-09-01,11:20,9.11,Baltasar Ordóñez,+34 942 74 62 64,Venta
+909,2024-07-21,10:04,2.64,Hortensia Alemán,+34 607250861,Venta
+910,2025-02-06,02:44,10.19,Antonio Escudero,+34806 643 640,No interesado
+911,2024-09-16,13:38,5.75,Mario Baños,+34 712412705,Venta
+912,2023-09-30,00:53,1.46,Eric Benito,+34 959 52 12 49,No interesado
+913,2023-12-04,06:14,13.94,Ceferino Pacheco,+34 829 243 422,Venta
+914,2024-11-27,06:59,7.11,Marisela Viñas,+34716951057,Llamar después
+915,2024-06-26,16:16,9.1,Patricio Pol,+34 730 672 350,No interesado
+916,2024-05-19,11:02,2.42,Dorita Múñiz,+34747 013 087,No interesado
+917,2024-07-08,03:37,10.72,Mamen Revilla,+34 969 23 51 89,Llamar después
+918,2025-01-04,17:41,14.55,Cruz Navas,+34720262884,No interesado
+919,2025-01-13,18:15,6.25,Sandalio Perera,+34727 87 79 87,Llamar después
+920,2024-07-30,08:56,10.43,Demetrio Diego,+34992 021 735,No interesado
+921,2023-12-29,21:59,10.07,Juan Pablo Rovira,+34 746202019,No interesado
+922,2023-09-19,20:24,4.18,Dolores Villaverde,+34 715 38 59 07,Venta
+923,2024-03-31,18:48,9.09,Cristóbal Vizcaíno,+34 845 843 634,Llamar después
+924,2025-01-15,03:54,12.2,Juanita Aramburu,+34958580112,No interesado
+925,2024-10-27,15:02,14.22,Florinda Calatayud,+34 736 352 113,No interesado
+926,2024-10-23,17:43,2.68,Rosa María Bustos,+34874 497 409,Venta
+927,2024-03-28,05:09,7.37,Marisa Morcillo,+34 608 78 94 81,Venta
+928,2023-12-23,23:05,2.16,Fidel Almazán,+34 739 72 70 79,No interesado
+929,2024-07-03,22:15,9.34,Leandra Cantero,+34955 61 16 97,Llamar después
+930,2025-07-18,22:50,14.88,Heliodoro Hoyos,+34890 82 37 37,Llamar después
+931,2025-06-30,00:59,9.81,Amaya Perelló,+34703640400,No interesado
+932,2024-09-18,04:31,1.44,Vera Ávila,+34 621 430 648,No interesado
+933,2024-10-02,01:40,3.68,Blas Franch,+34 734 26 69 47,Llamar después
+934,2024-08-31,07:51,1.48,Teresa Casal,+34717 957 634,No interesado
+935,2025-06-13,08:38,12.4,Jonatan Fiol,+34813330463,Llamar después
+936,2025-05-17,07:42,13.89,Elisa Nevado,+34 717 22 81 25,No interesado
+937,2025-01-04,09:04,9.18,Nazario Gallego,+34731 271 331,Venta
+938,2024-03-16,10:52,5.83,Manu Garcés,+34 938 263 107,No interesado
+939,2025-02-20,05:46,12.91,María José Blázquez,+34 747288112,Llamar después
+940,2024-09-23,12:37,6.62,Natalio Robles,+34722 466 476,Llamar después
+941,2023-07-27,15:14,4.2,Ani Quesada,+34716 60 97 79,Venta
+942,2024-10-08,20:01,10.06,Evita Sáez,+34725 689 050,Venta
+943,2025-04-22,09:21,1.72,Reyes Chacón,+34991708385,No interesado
+944,2025-06-30,19:31,5.35,Rosario Bravo,+34602832149,No interesado
+945,2023-12-22,02:08,10.74,Adelaida Franch,+34 741 976 055,No interesado
+946,2023-09-30,05:31,2.04,Manola Catalán,+34 743186272,Venta
+947,2023-09-12,21:48,7.95,Cecilio León,+34718 987 564,No interesado
+948,2024-05-03,07:40,5.86,Dorita Roura,+34 711 816 172,No interesado
+949,2023-12-14,09:40,9.78,Baldomero Merino,+34 744646728,Llamar después
+950,2025-06-13,05:41,6.78,María Manuela Piñol,+34735 78 35 78,Llamar después
+951,2023-09-18,04:39,12.15,Marcio Julián,+34 660 982 395,Venta
+952,2024-07-01,03:42,12.77,Martirio Cañizares,+34 749 014 131,No interesado
+953,2024-06-11,18:06,5.48,Carmelo Infante,+34 719 46 44 47,No interesado
+954,2024-05-07,22:44,9.18,Cristina Huertas,+34713 416 635,No interesado
+955,2024-06-13,00:37,3.51,Hernando Pastor,+34707 36 96 87,No interesado
+956,2024-10-11,04:21,13.46,Segismundo Escribano,+34 728983858,Llamar después
+957,2024-02-16,11:43,6.3,Narciso Bolaños,+34 711 681 354,Llamar después
+958,2024-01-16,21:40,8.84,Matilde Garzón,+34 617529508,No interesado
+959,2025-04-20,20:15,3.79,Mateo Perales,+34 732 452 041,Venta
+960,2023-09-14,23:41,13.33,Amor Luque,+34734 75 83 91,Venta
+961,2024-03-09,07:05,12.63,Carmelita Uría,+34 735531844,Venta
+962,2024-09-02,09:07,2.74,Dalila Mancebo,+34 739 52 23 67,No interesado
+963,2024-02-27,02:11,14.38,Lope Montenegro,+34 974 420 401,No interesado
+964,2024-02-24,22:44,8.84,Rufina Leiva,+34701578025,Llamar después
+965,2023-09-06,16:53,5.3,Tamara Zamorano,+34 713 20 22 42,No interesado
+966,2023-08-20,23:08,14.84,Fabiana Ribera,+34 858928453,Venta
+967,2024-03-08,16:45,12.96,Carina Carrión,+34977996876,Venta
+968,2023-08-20,08:06,14.34,Sosimo Parra,+34737592995,Llamar después
+969,2025-04-10,18:35,6.56,duracion_mincio Valverde,+34700837414,No interesado
+970,2025-02-13,14:42,9.06,Anastasio Alcaraz,+34745 04 40 02,Venta
+971,2024-08-14,17:05,10.08,Ricarda Frutos,+34 621278944,Llamar después
+972,2024-08-20,11:42,10.29,Graciano Palacio,+34705704584,No interesado
+973,2025-07-19,19:54,2.85,Juan Bautista Ríos,+34 911 172 659,No interesado
+974,2024-05-19,09:47,9.26,Vilma Arellano,+34713360804,Venta
+975,2024-02-13,02:47,11.71,Tamara Aguado,+34 714 57 25 58,Llamar después
+976,2024-09-09,07:46,3.65,Ildefonso Luque,+34 721 22 51 84,Llamar después
+977,2025-06-15,07:02,9.52,Cristina Solana,+34743991829,Llamar después
+978,2025-03-19,12:32,10.22,Lope Sáez,+34 741 889 286,Llamar después
+979,2024-01-10,00:08,6.63,Cecilio Fortuny,+34 716 74 45 64,Llamar después
+980,2024-11-15,15:25,6.7,Ovidio Salgado,+34821539712,Venta
+981,2024-12-17,02:03,2.99,Aarón Sevilla,+34692 814 076,No interesado
+982,2024-04-05,19:48,4.96,Soraya Seguí,+34738841733,Llamar después
+983,2023-10-17,14:11,11.04,Victorino Márquez,+34 611270325,No interesado
+984,2024-09-04,19:04,4.02,Benito Casado,+34723635705,No interesado
+985,2024-08-04,10:25,6.57,Adelina Villalobos,+34 734471203,Llamar después
+986,2023-09-21,09:08,6.06,Agustín Pol,+34706619639,No interesado
+987,2025-04-10,22:43,4.55,Jordana Cabo,+34 709 80 94 10,Venta
+988,2023-10-02,17:51,10.17,Eusebia Valencia,+34 680 988 462,Venta
+989,2023-11-26,05:55,6.7,Che Abellán,+34968502389,Venta
+990,2025-02-22,18:48,8.13,Manu Vilar,+34746 99 01 36,No interesado
+991,2024-06-21,04:05,4.96,Cristian Hernando,+34869 96 02 37,No interesado
+992,2024-04-23,14:30,6.8,Rosalía Rosell,+34994857417,Llamar después
+993,2024-12-21,10:45,9.53,Alma Mata,+34 852 48 05 59,Venta
+994,2025-01-15,00:19,8.75,Norberto Guerra,+34685 11 91 27,Venta
+995,2024-11-27,19:44,13.89,Bernardino Cañete,+34706 19 93 60,Llamar después
+996,2024-01-31,19:31,11.78,Lorenzo Solano,+34 877 872 335,Venta
+997,2023-08-29,20:29,4.25,Lola Agustín,+34 640295717,Llamar después
+998,2025-03-13,16:04,12.13,Carolina Buendía,+34 722179104,Llamar después
+999,2025-04-06,07:54,8.62,Gustavo Prat,+34858 55 04 70,Venta
+1000,2024-12-08,02:00,2.21,Raquel Díez,+34705 73 45 50,Llamar después
